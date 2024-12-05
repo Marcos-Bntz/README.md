@@ -3,8 +3,7 @@
 
 - 💬 Ask me about **Marketing: SEO, SEM, campañas publicitarias, análisis de datos.**
 
-<h3 align="left">Connect with me:www.linkedin.com/in/
-marcosdavidbenitez
+<h3 align="left">Connect with me:www.linkedin.com/in/marcosdavidbenitez
  </h3>
 <p align="left">
 </p>
