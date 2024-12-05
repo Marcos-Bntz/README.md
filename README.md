@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋,me llamo Marcos David Benitez</h1>
+<h1 align="center">Hola 👋, Me llamo Marcos David Benitez</h1>
 <h3 align="center">Estudiante de Marketing apasionado/a por el análisis de datos, el marketing digital y la programación.</h3>
 
 - 💬 Ask me about **Marketing: SEO, SEM, campañas publicitarias, análisis de datos.**
